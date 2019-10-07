@@ -3,10 +3,10 @@ In this data visualization project,  we examine if racial discrimination between
 
 This was a group data visualisation project that was completed by:
 
-Jennifer O’Conor
+-Jennifer O’Conor
 
-Siobhan Purcell
+-Siobhan Purcell
 
-Daniel Felipe Cardona Montilla 
+-Daniel Felipe Cardona Montilla 
 
-Oscar Aregall
+-Oscar Aregall
